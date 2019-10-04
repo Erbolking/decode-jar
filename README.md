@@ -1,4 +1,4 @@
-# How to decode, end and compile back to jar file
+# How to decode, edit and compile back to jar file
 
 1. To decode a jar we can use the following services / tools
 - http://java-decompiler.github.io/
