@@ -5,8 +5,8 @@
 - http://www.javadecompilers.com
 
 2. After modifiyng some java files we have to compile them to classes.
-3. Sometimes .java files restored from byte code cannot be compiled because of incompatible types.
-In that case we can try another decode methods. Different methods might work for different classes.
+3. Sometimes .java files (restored from byte code) cannot be compiled because of incompatible types.
+In that case we can try to use another decode method. Different methods might surprisengly work for different classes.
 The remaining issues, if any, should be fixed manually.
 You don't have to recompile not touched .java files, compile only modified one.
 4. Extract jar files `jar xf some-jar.jar`
